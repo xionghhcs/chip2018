@@ -1,0 +1,12 @@
+python feature_extractor.py
+python esim_char.py
+python esim_word.py
+python esim_char_gl_feature.py
+python esim_word_gl_feature.py
+python bimpm_char.py
+python bimpm_word.py
+python my_nn_char.py
+python my_nn_word.py
+python embed_cnn_char.py
+python embed_cnn_word.py
+python stacking.py
